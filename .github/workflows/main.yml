@@ -14,7 +14,7 @@ on:
       - ".github/**"
   pull_request:
     branches:
-      - main
+      - fix
     paths-ignore:
       - "docs/**"
       - "README*.md"
